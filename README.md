@@ -31,7 +31,8 @@ The MySQL Connector/J driver (e.g., added as a dependency or in the classpath).
 Database Setup
 Before running the application, you must create the necessary database and table structure.
  
-# Update Connection Details: The application uses the following default connection details. You must change these in HotelReservationSystem.java if your MySQL configuration is different.
+# Update Connection Details: The application uses the following default connection details. 
+You must change these in HotelReservationSystem.java if your MySQL configuration is different.
 
 #Java
 private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
