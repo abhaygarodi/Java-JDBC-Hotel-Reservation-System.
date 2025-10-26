@@ -1,4 +1,4 @@
-# Java-JDBC-Hotel-Reservation-System.
+# Hotel-Reservation-System.
 This is a functional command-line Hotel Reservation System built using Core Java and JDBC (Java Database Connectivity) for persistent data storage in a MySQL database.
 
 # Features
